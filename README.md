@@ -1,5 +1,4 @@
-im taking a potato chip and eating it btw
-
+<img width="300" height="400" src="https://imgur.com/Bs6tjlN.jpeg"/>
 <!--
 **gumpaws/gumpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
