@@ -1,4 +1,4 @@
-## Hi there 👋
+im taking a potato chip and eating it btw
 
 <!--
 **gumpaws/gumpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
