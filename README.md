@@ -1,4 +1,4 @@
-<img width="300" height="400" src="https://imgur.com/Bs6tjlN.jpeg"/>
+<img width="500" src="https://imgur.com/h721s6b.jpeg"/>
 <!--
 **gumpaws/gumpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
